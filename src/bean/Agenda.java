@@ -6,15 +6,7 @@ import util.GetDate;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * ************************************************************
- * *********    User : SuLinger(462679107@qq.com) .
- * *********    Date : 2014-09-10  .
- * *********    Time:  2014-09-10  .
- * *********    Project name :PBOX1.3 .
- * *********    Copyright @ 2014, SuLinger, All Rights Reserved
- * *************************************************************
- */
+
 
 public class Agenda implements Serializable {
     public static final String ID = "id";
