@@ -25,12 +25,14 @@ public class Agenda implements Serializable {
 
     private int id;
     private String title;
+    private String note;
     private Date startDate;
+
     private Date endDate;
     private int progress;
     private String category;
     private String top;
-    private String note;
+
 
 
     public Date getStartDate() {
